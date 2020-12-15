@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 A=float(input("Введите 1-ое число"))
 B=float(input("Введите 2-ое число"))
 C=float(input("Введите 3-ое число"))
